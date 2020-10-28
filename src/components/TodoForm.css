@@ -1,0 +1,14 @@
+.todo-form > input {
+  padding: 8px;
+  border: solid 1px #dedede;
+  border-radius: 4px;
+  margin-right: 8px;
+}
+
+.todo-form > button {
+  padding: 8px;
+  border: 0;
+  background-color: #011625;
+  color: #ffffff;
+  cursor: pointer;
+}
