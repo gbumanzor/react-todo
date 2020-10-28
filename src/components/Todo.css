@@ -1,0 +1,19 @@
+.todo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.todo > button {
+  border: 0;
+  border-radius: 50%;
+  cursor: pointer;
+  padding: 4px 8px;
+  background-color: #ff4040;
+  color: #ffffff;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  outline: 0;
+}
